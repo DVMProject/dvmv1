@@ -13,3 +13,7 @@ DVM-V1 Modem boards are available from the [W3AXL Online Store](https://store.w3
 See the below image for radio interfacing information via the RJ45.
 
 <img src="pics/interfacing.png" width="512">
+
+## Support
+
+Support is available on our Discord server - there are many users and project members online who can help with any issues you may encounter. [Join here!](https://discord.gg/3pBe8xgrEz)
