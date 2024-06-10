@@ -1,4 +1,4 @@
-# DVM-V24 USB V24 Adapter
+# DVM-V1 Duplex Digital Radio Modem
 Bye-bye, trimpots. The official DVMProject duplex modem has 100% software calibration. Made for use with DVMHost and DVMFirmware, this modem allows you to turn any radio into a fully digital-capable base station.
 
 <img src="pics/main.jpg" width="256"><img src="pics/back.jpg" width="256">
